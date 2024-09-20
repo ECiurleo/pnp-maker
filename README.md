@@ -25,5 +25,8 @@ _Full Example_ <br>
 
 
 ## Credits
-Used this lovely site to generate me TTS json for testing, tts_json.json example is generated from there.
+Used this lovely site to generate me TTS json for testing, tts_json.json example is generated from there. <br>
 https://geckotown.me/
+
+Goes hand in hand with tts-deckconverter that allows you to convert other formats INTO TTS (which this app can then convert to PNP) <br>
+https://github.com/jeandeaual/tts-deckconverter
