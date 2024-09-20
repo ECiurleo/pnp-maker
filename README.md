@@ -17,8 +17,10 @@ Specify the colour of the cut lines <br>
 
 Options are black,white,blue,red,green,yellow,orange
 
-Specify the name of the output PDF file using --output_pdf <br>
+Specify the name of the output PDF file using <br> 
+``--output_pdf``
 
+_Full Example_ <br>
 ``python pnp-maker.py --duplex --json tts_json.json --cut_line_colour green --output_pdf my_deck.pdf``
 
 
