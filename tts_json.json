@@ -1,0 +1,394 @@
+{
+  "objectStates": [
+    {
+      "name": "DeckCustom",
+      "containedObjects": [
+        {
+          "name": "Card",
+          "nickname": "Sol Ring",
+          "cardID": 100,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Arcane Signet",
+          "cardID": 200,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Plains",
+          "cardID": 300,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Plains",
+          "cardID": 300,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Plains",
+          "cardID": 300,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Plains",
+          "cardID": 300,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Plains",
+          "cardID": 300,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Plains",
+          "cardID": 300,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "name": "Card",
+          "nickname": "Swamp",
+          "cardID": 400,
+          "customDeck": null,
+          "transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        }
+      ],
+      "deckIDs": [
+        100, 200, 300, 300, 300, 300, 300, 300, 400, 400, 400, 400, 400, 400,
+        400, 400, 400, 400, 400, 400
+      ],
+      "customDeck": {
+        "1": {
+          "faceURL": "https://scryfallcards.blob.core.windows.net/images/large/880711b0-da06-4c4f-aa4e-1be58fc0bc67.jpg",
+          "backURL": "https://scryfallcards.blob.core.windows.net/images/backs/large/back0000.jpg",
+          "numHeight": 1,
+          "numWidth": 1,
+          "backIsHidden": true
+        },
+        "2": {
+          "faceURL": "https://scryfallcards.blob.core.windows.net/images/large/40924da3-c974-4b37-ad35-e7d8e4cd3d4a.jpg",
+          "backURL": "https://scryfallcards.blob.core.windows.net/images/backs/large/back0000.jpg",
+          "numHeight": 1,
+          "numWidth": 1,
+          "backIsHidden": true
+        },
+        "3": {
+          "faceURL": "https://scryfallcards.blob.core.windows.net/images/large/e67ce864-bf29-42f1-81ca-a98022892eec.jpg",
+          "backURL": "https://scryfallcards.blob.core.windows.net/images/backs/large/back0000.jpg",
+          "numHeight": 1,
+          "numWidth": 1,
+          "backIsHidden": true
+        },
+        "4": {
+          "faceURL": "https://scryfallcards.blob.core.windows.net/images/large/7442c1c7-1c10-4387-92e6-4bdea263064f.jpg",
+          "backURL": "https://scryfallcards.blob.core.windows.net/images/backs/large/back0000.jpg",
+          "numHeight": 1,
+          "numWidth": 1,
+          "backIsHidden": true
+        }
+      },
+      "transform": {
+        "posX": 0,
+        "posY": 1,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 180,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      }
+    }
+  ]
+}
